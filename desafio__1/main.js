@@ -19,5 +19,5 @@ const precio_unitario = 150
 let cantidad_deseada = cantidad_desea
 
 
-let multiplicando = precio_unitario * cantidad_desea;
+let multiplicando = precio_unitario * cantidad_deseada;
 alert("El precio en total seria:" + multiplicando)
